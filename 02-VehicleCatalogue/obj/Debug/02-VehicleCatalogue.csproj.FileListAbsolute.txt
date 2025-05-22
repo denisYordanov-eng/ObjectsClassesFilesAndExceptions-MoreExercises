@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\bin\Debug\02-VehicleCatalogue.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\bin\Debug\02-VehicleCatalogue.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\bin\Debug\02-VehicleCatalogue.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\obj\Debug\02-VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\obj\Debug\02-VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\obj\Debug\02-VehicleCatalogue.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\02-VehicleCatalogue\obj\Debug\02-VehicleCatalogue.pdb
