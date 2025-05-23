@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\bin\Debug\05-WriteToFile.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\bin\Debug\05-WriteToFile.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\bin\Debug\05-WriteToFile.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\obj\Debug\05-WriteToFile.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\obj\Debug\05-WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\obj\Debug\05-WriteToFile.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\05-WriteToFile\obj\Debug\05-WriteToFile.pdb
