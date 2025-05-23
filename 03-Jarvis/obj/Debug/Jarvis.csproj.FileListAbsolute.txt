@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\obj\Debug\Jarvis.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\Jarvis\obj\Debug\Jarvis.pdb
