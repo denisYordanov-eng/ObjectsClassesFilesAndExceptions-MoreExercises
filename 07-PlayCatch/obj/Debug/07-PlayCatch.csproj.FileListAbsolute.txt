@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\bin\Debug\07-PlayCatch.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\bin\Debug\07-PlayCatch.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\bin\Debug\07-PlayCatch.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\obj\Debug\07-PlayCatch.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\obj\Debug\07-PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\obj\Debug\07-PlayCatch.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\01-OrderByAge\07-PlayCatch\obj\Debug\07-PlayCatch.pdb
