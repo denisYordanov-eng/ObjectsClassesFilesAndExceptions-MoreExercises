@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\bin\Debug\08-PersonalExeption.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\bin\Debug\08-PersonalExeption.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\bin\Debug\08-PersonalExeption.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\obj\Debug\08-PersonalExeption.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\obj\Debug\08-PersonalExeption.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\obj\Debug\08-PersonalExeption.exe
+C:\Users\Laptop\Desktop\C#\ObjectsClassesFilesAndExceptions-More Exercises\ObjectsClassesFilesAndExceptions-MoreExercises\08-PersonalExeption\obj\Debug\08-PersonalExeption.pdb
